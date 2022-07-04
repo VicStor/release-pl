@@ -1,0 +1,26 @@
+{
+  "name": "release-pl",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version",
+    "release:tags": "git push --follow-tags origin master",
+    "postrelease": "npm run release:tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VicStor/release-pl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VicStor/release-pl/issues"
+  },
+  "homepage": "https://github.com/VicStor/release-pl#readme",
+  "devDependencies": {
+    "release-please": "^13.18.7",
+    "standard-version": "^9.5.0"
+  }
+}
