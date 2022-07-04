@@ -18,3 +18,4 @@ feat: 1 - gitignore
 feat: 2 - test
 feat: 3 - feat 3
 feat: 5 - feat 5
+feat: 6 - feat 6
