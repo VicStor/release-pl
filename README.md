@@ -3,7 +3,8 @@
 ### Creating/updating release PRs
 ```bash
 ./node_modules/.bin/release-please release-pr \
---token=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 \ --repo-url=VicStor/release-pl
+--token=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 \
+--repo-url=VicStor/release-pl
 ```
 
 ### Creating a release on GitHub
