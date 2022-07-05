@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.1](https://github.com/VicStor/release-pl/compare/v1.1.0...v1.1.1) (2022-07-05)
+
+
+### Bug Fixes
+
+* feat 7 ([6ac9cd8](https://github.com/VicStor/release-pl/commit/6ac9cd880e6445a8c94ab9f290a078c2cebe5e70))
+
 ## [1.1.0](https://github.com/VicStor/release-pl/compare/v1.0.0...v1.1.0) (2022-07-04)
 
 
